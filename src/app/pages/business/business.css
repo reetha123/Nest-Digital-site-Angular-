@@ -1,0 +1,35 @@
+
+    body {
+      padding-top: 70px;
+    }
+
+  
+    .uniform-img {
+      height: 220px;
+      width: 100%;
+      object-fit: cover;
+    }
+
+ 
+    .custom-card {
+      height: 100%;
+    }
+
+    .custom-card .card-body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .custom-card .btn {
+      margin-top: auto;
+    }
+
+  
+    .custom-card .card-header {
+      min-height: 55px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 600;
+    }
+  
